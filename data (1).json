@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "nextCheck": "2026-11-30",
  "watch": [
   {
@@ -43,7 +43,18 @@
      "url": "https://ramco.com/hubfs/Maroc%20LF%202025.pdf"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Barème de l'impôt sur le revenu en vigueur",
+    "law": "Loi de finances n° 60-24 pour 2025, dahir 1-24-65 (13 décembre 2024), BO n° 7362 (19 décembre 2024) ; réduction pour charges de famille : loi de finances n° 50-25 pour 2026",
+    "articles": "Articles 73-I et 74-I du CGI",
+    "effective": "Revenus de 2025 et suivants ; nouvelle réduction familiale : revenus de 2026",
+    "points": [
+     "Tranche exonérée : jusqu'à 40 000 DH de revenu net annuel.",
+     "Taux : 10 %, 20 %, 30 %, 34 %, puis 37 % au-delà de 180 000 DH.",
+     "Réduction pour charges de famille : 600 DH par an et par personne à charge (au lieu de 500) pour les revenus acquis à compter du 1er janvier 2026, dans la limite de 6 personnes."
+    ]
+   }
   },
   {
    "id": "rf-particuliers",
@@ -70,7 +81,19 @@
     }
    ],
    "verified": "2026-11-22",
-   "exemption": true
+   "exemption": true,
+   "fr": {
+    "title": "Revenus fonciers des personnes physiques (loyers)",
+    "law": "Loi de finances n° 50-22 pour 2023 (abattement de 40 % et retenue non libératoire) ; loi de finances n° 60-24 pour 2025 (option 20 %)",
+    "articles": "Articles 61-I, 64-II, 64-IV, 73-II, 86 et 160 bis du CGI",
+    "effective": "En vigueur",
+    "points": [
+     "Imposition au barème après un abattement forfaitaire de 40 % sur le loyer brut (art. 64-II).",
+     "Retenue à la source non libératoire de 10 % si le loyer brut annuel est inférieur à 120 000 DH, 15 % au-delà, opérée par le locataire personne morale ou personne physique professionnelle. Aucune retenue si le loyer versé au même propriétaire ne dépasse pas 40 000 DH par an.",
+     "Option pour le taux libératoire de 20 % sur le montant brut, ouverte aux loyers soumis à retenue depuis la LF 2025, avec dispense de déclaration annuelle pour ces revenus.",
+     "La nouvelle retenue de 5 % ne vise pas les loyers versés à une personne physique imposée en revenus fonciers."
+    ]
+   }
   },
   {
    "id": "ras-5",
@@ -93,7 +116,20 @@
      "url": "https://www.tax.gov.ma/wps/wcm/connect/e48c5c9d-ae80-4b30-a1b3-80af7ec09be1/NC+737+LF+2026.pdf?MOD=AJPERES"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Retenue à la source de 5 % sur les loyers versés aux sociétés et aux professionnels",
+    "law": "Loi de finances n° 50-25 pour 2026, dahir 1-25-67 (10 décembre 2025), BO n° 7465 bis",
+    "articles": "Articles 4, 15 ter, 19-IV-A, 73-II-A, 151, 157 et 247-XXXXVI du CGI",
+    "effective": "Loyers attribués à compter du 1er juillet 2026, avec application progressive jusqu'en 2028",
+    "points": [
+     "Taux de 5 % du montant brut hors TVA du loyer.",
+     "Tenus de retenir depuis le 1er juillet 2026 : l'État, les collectivités territoriales, les établissements et entreprises publics et leurs filiales, les établissements de crédit et d'assurance.",
+     "Autres entreprises selon leur chiffre d'affaires HT : 500 millions de DH (1er juillet 2026), puis 350 millions (1er janvier 2027), puis 200 millions (1er janvier 2028).",
+     "Si le bailleur est une personne physique au résultat net réel ou simplifié, toute personne morale locataire retient, quel que soit son chiffre d'affaires.",
+     "La retenue est versée le mois suivant, imputée sur l'impôt du bailleur, l'excédent étant restituable."
+    ]
+   }
   },
   {
    "id": "tpi",
@@ -121,7 +157,20 @@
     }
    ],
    "verified": "2026-11-22",
-   "exemption": true
+   "exemption": true,
+   "fr": {
+    "title": "Impôt sur les profits immobiliers lors de la vente",
+    "law": "CGI 2026 ; durée d'habitation principale : loi de finances n° 50-22 pour 2023",
+    "articles": "Articles 61-II, 63, 65, 73-II-F-6°, 83-I, 144-II et 173-I du CGI",
+    "effective": "En vigueur",
+    "points": [
+     "20 % du profit net, avec un minimum de 3 % du prix de cession même en l'absence de profit.",
+     "Profit = prix de cession net des frais, moins (prix d'acquisition + frais réels ou 15 % forfaitaires + dépenses d'investissement) multiplié par le coefficient de réévaluation.",
+     "Exonération de l'habitation principale occupée au moins 5 ans (au lieu de 6 depuis la LF 2023), dans la limite d'un prix de 4 000 000 DH ; 3 % sur la fraction excédentaire.",
+     "Exonération des cessions dont la valeur totale ne dépasse pas 140 000 DH par année civile.",
+     "Déclaration et paiement dans les 30 jours suivant la cession."
+    ]
+   }
   },
   {
    "id": "de-immobilier",
@@ -148,7 +197,20 @@
      "url": "https://upsilon-consulting.com/droits-enregistrement-maroc-2026/"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Droits d'enregistrement sur les acquisitions immobilières",
+    "law": "CGI 2026 ; baisse de 6 % à 5 % : loi de finances n° 50-25",
+    "articles": "Articles 128 et 133-I du CGI",
+    "effective": "En vigueur",
+    "points": [
+     "4 % : locaux construits à usage d'habitation, commercial, professionnel ou administratif.",
+     "5 % : terrains nus ou comportant des constructions destinées à être démolies (art. 133-I-G-1°).",
+     "3 % : première cession de logements sociaux et à faible valeur immobilière (art. 133-I-B-7°).",
+     "5 % au lieu de 6 % : cessions d'actions et parts de sociétés immobilières, pour les actes enregistrés à compter du 1er janvier 2026 (art. 133-I-G-4°).",
+     "Délai d'enregistrement : 30 jours à compter de la date de l'acte (art. 128)."
+    ]
+   }
   },
   {
    "id": "de-2pc",
@@ -173,7 +235,18 @@
      "url": "https://www.tax.gov.ma/wps/wcm/connect/e48c5c9d-ae80-4b30-a1b3-80af7ec09be1/NC+737+LF+2026.pdf?MOD=AJPERES"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Droit d'enregistrement supplémentaire de 2 % en cas de paiement non traçable",
+    "law": "Loi de finances n° 50-25 pour 2026, BO n° 7465 bis (traduction officielle : 16 décembre 2025)",
+    "articles": "Article 133-III du CGI",
+    "effective": "Actes conclus à compter du 1er juillet 2026",
+    "points": [
+     "S'applique aux cessions à titre onéreux d'immeubles ou de droits réels immobiliers dont le prix dépasse 300 000 DH, et aux cessions de fonds de commerce quel que soit le prix.",
+     "Dû si l'acte ne mentionne pas les modalités et références de paiement, ou si le prix n'est pas réglé par l'un des moyens prévus à l'article 11-II.",
+     "En cas de paiement mixte, il ne s'applique qu'à la partie payée en espèces. Le crédit accordé par un établissement de crédit n'est pas concerné."
+    ]
+   }
   },
   {
    "id": "plf27-ir",
@@ -185,7 +258,8 @@
     "رفع الشريحة المعفاة من 40.000 إلى 60.000 درهم ابتداء من 1 يناير 2027.",
     "الجدول المقترح لسنة 2027: 10% (60.001 إلى 80.000)، و20% (80.001 إلى 100.000)، و34% (100.001 إلى 180.000)، و37% على ما يفوق 180.000.",
     "تخفيض تدريجي حتى 2031 نحو ثلاثة أسعار (10% و20% و30%) وسعر أقصى قدره 30%.",
-    "خصم جزافي موحد للمصاريف المهنية للأجراء بنسبة 45%، بسقف 35.000 درهم."
+    "خصم جزافي موحد للمصاريف المهنية للأجراء بنسبة 45%، بسقف 35.000 درهم.",
+    "المقاول الذاتي والمساهمة المهنية الموحدة: رفع عتبة الحجز على رقم الأعمال المحقق مع نفس الزبون من 80.000 إلى 100.000 درهم، وخفض سعر الحجز من 30% إلى 20% (تعديل صادقت عليه لجنة المالية بمجلس النواب)."
    ],
    "articles": "المادتان 59-I-A و73-I (تعديل مقترح)",
    "law": "مشروع قانون المالية رقم 60.26 للسنة المالية 2027",
@@ -202,9 +276,27 @@
     {
      "label": "Le360: الجداول من 2027 إلى 2030",
      "url": "https://fr.le360.ma/economie/reforme-de-lir-les-nouveaux-baremes-de-2027-a-2030-etape-par-etape-vers-un-taux-maximal-de-30_IV4K3SYWDRFLTKETNA4TORQQOY/"
+    },
+    {
+     "label": "SNRTnews: أبرز تدابير مشروع مالية 2027 بعد مصادقة لجنة المالية (مصدر ثانوي)",
+     "url": "https://snrtnews.com/article/162237"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-24",
+   "fr": {
+    "title": "Projet de loi de finances 2027 : nouveau barème de l'IR",
+    "stage": "Adopté par la Chambre des représentants le 14 novembre 2026 (179 voix contre 126), en examen à la Chambre des conseillers depuis le 17 novembre",
+    "law": "Projet de loi de finances n° 60-26 pour l'année 2027",
+    "articles": "Articles 59-I-A et 73-I (modification proposée)",
+    "effective": "Revenus de 2027, en cas d'adoption définitive et de publication",
+    "points": [
+     "Relèvement de la tranche exonérée de 40 000 à 60 000 DH à compter du 1er janvier 2027.",
+     "Barème proposé pour 2027 : 10 % (60 001 à 80 000), 20 % (80 001 à 100 000), 34 % (100 001 à 180 000) et 37 % au-delà de 180 000.",
+     "Baisse progressive jusqu'en 2031 vers trois taux (10 %, 20 % et 30 %) et un taux marginal de 30 %.",
+     "Abattement forfaitaire unique pour frais professionnels des salariés de 45 %, plafonné à 35 000 DH.",
+     "Auto-entrepreneur et CPU : seuil de retenue sur le chiffre d'affaires réalisé avec un même client porté de 80 000 à 100 000 DH et taux ramené de 30 % à 20 % (amendement adopté en commission des finances de la Chambre des représentants)."
+    ]
+   }
   },
   {
    "id": "plf27-immo",
@@ -231,7 +323,20 @@
      "url": "https://ecoactu.ma/les-prinicpales-mesures-fiscales/"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Projet de loi de finances 2027 : mesures immobilières et d'enregistrement",
+    "stage": "Dans le PLF n° 60-26, en examen à la Chambre des conseillers",
+    "law": "Projet de loi de finances n° 60-26 pour l'année 2027",
+    "articles": "Dispositions relatives aux droits d'enregistrement, aux procédures et à la TVA (modifications proposées)",
+    "effective": "1er janvier 2027, en cas d'adoption définitive et de publication",
+    "points": [
+     "Actes dont les droits sont prescrits et que les parties demandent à enregistrer : enregistrement au tarif en vigueur le jour de l'enregistrement, sans amende ni majoration de retard (à compter du 1er janvier 2027).",
+     "Généralisation de l'attestation d'enregistrement à tous les actes et conventions enregistrés.",
+     "Compétence de la commission locale du lieu de situation de l'immeuble pour les litiges en matière de profits immobiliers et de droits d'enregistrement.",
+     "Régime optionnel de TVA sur la marge pour les marchands de biens immobiliers construits."
+    ]
+   }
   },
   {
    "id": "is-taux-2026",
@@ -258,7 +363,20 @@
      "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Taux de l'impôt sur les sociétés (2026)",
+    "law": "Loi de finances n° 50-22 pour 2023 (réforme progressive 2023 à 2026)",
+    "articles": "Article 19-I du CGI",
+    "effective": "Exercices ouverts à compter du 1er janvier 2026",
+    "points": [
+     "20 % : taux normal si le bénéfice net est inférieur à 100 millions de DH.",
+     "35 % : sociétés dont le bénéfice net atteint 100 millions de DH ou plus. Retour à 20 % seulement après 3 exercices consécutifs sous le seuil.",
+     "20 % quel que soit le bénéfice pour les sociétés des zones d'accélération industrielle, de Casablanca Finance City et les sociétés créées depuis 2023 engagées par convention d'investissement d'au moins 1,5 milliard de DH.",
+     "40 % : établissements de crédit et assimilés, Bank Al-Maghrib, CDG, entreprises d'assurance et de réassurance.",
+     "Paiement par 4 acomptes trimestriels."
+    ]
+   }
   },
   {
    "id": "is-cm",
@@ -285,7 +403,19 @@
      "url": "https://upsilon-consulting.com/cotisation-minimale-is-2026/"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Cotisation minimale",
+    "law": "Loi de finances n° 50-22 pour 2023 (baisse des taux)",
+    "articles": "Article 144-I du CGI",
+    "effective": "Exercices ouverts à compter du 1er janvier 2023",
+    "points": [
+     "0,25 % du chiffre d'affaires HT, des produits accessoires, financiers et des subventions, avec un minimum de 3 000 DH.",
+     "0,15 % pour les ventes par les sociétés commerciales de produits pétroliers, gaz, beurre, huile, sucre, farine, eau, électricité et médicaments.",
+     "Est due la plus élevée de l'IS ou de la cotisation minimale, même en cas de déficit. L'excédent n'est pas imputable sur l'IS des exercices suivants.",
+     "Exonération pendant les 36 premiers mois d'exploitation (sauf sociétés concessionnaires de service public)."
+    ]
+   }
   },
   {
    "id": "is-css",
@@ -310,7 +440,18 @@
      "url": "https://fr.le360.ma/economie/plf-2026-la-taxe-de-solidarite-reconduite-jusquen-2028_FPO4C5XVKRFFPDRK5NK6LEVTJ4/"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Contribution sociale de solidarité sur les bénéfices (2026 à 2028)",
+    "law": "Loi de finances n° 50-25 pour 2026 (prorogation pour 2026, 2027 et 2028)",
+    "articles": "Articles 267 à 273 du CGI",
+    "effective": "2026, 2027 et 2028",
+    "points": [
+     "Concerne les sociétés et les personnes physiques au résultat net réel dont le bénéfice annuel atteint 1 million de DH ou plus.",
+     "Taux unique sur la totalité du bénéfice selon la tranche : 1,5 % (de 1 à moins de 5 millions), 2,5 % (de 5 à moins de 10), 3,5 % (de 10 à moins de 40), 5 % (40 millions et plus).",
+     "Non déductible du résultat fiscal ; calculée sur le bénéfice du dernier exercice clos."
+    ]
+   }
   },
   {
    "id": "is-dividendes",
@@ -331,7 +472,18 @@
      "url": "https://upsilon-consulting.com/retenue-a-la-source-sur-dividendes-au-maroc/"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Retenue à la source sur les dividendes",
+    "law": "Loi de finances n° 50-22 pour 2023 (article 247-XXXVII-C)",
+    "articles": "Articles 13, 19-IV, 73-II-C-3° et 247-XXXVII-C du CGI",
+    "effective": "11,25 % en 2026 ; 10 % à compter du 1er janvier 2027",
+    "points": [
+     "11,25 % sur les dividendes distribués en 2026, puis 10 % à compter du 1er janvier 2027 (trajectoire de baisse prévue depuis la LF 2023).",
+     "Retenue libératoire pour les personnes physiques résidentes.",
+     "Pas de retenue si les dividendes sont versés à une société résidente soumise à l'IS, sur présentation de l'attestation de propriété des titres."
+    ]
+   }
   },
   {
    "id": "is-exonerations",
@@ -355,7 +507,20 @@
      "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Exonérations de l'impôt sur les sociétés (article 6)",
+    "law": "CGI 2026",
+    "articles": "Articles 6 et 7 du CGI",
+    "effective": "En vigueur",
+    "points": [
+     "Exonération permanente : associations et organismes à but non lucratif (pour les opérations conformes à leur objet), coopératives dans les conditions de l'article 7-I, OPCVM, OPCI, FPCT, OPCC, fédérations sportives d'utilité publique.",
+     "Exonération permanente des sociétés agricoles dont le chiffre d'affaires est inférieur à 5 millions de DH, sous conditions.",
+     "Exonération temporaire de 5 ans : sociétés des zones d'accélération industrielle, de Casablanca Finance City, sociétés sportives, établissements hôteliers (chiffre d'affaires en devises) et sociétés industrielles des activités fixées par voie réglementaire.",
+     "Centres de gestion de comptabilité agréés : 4 ans. Concessions d'hydrocarbures : 10 ans à compter du début de la production.",
+     "À l'issue de l'exonération temporaire, le taux normal (20 %) s'applique."
+    ]
+   }
   },
   {
    "id": "plf27-is",
@@ -387,7 +552,21 @@
      "url": "https://www.lebrief.ma/plf-2027-les-principales-reformes-fiscales-adoptees-par-les-deputes-100173665/"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Projet de loi de finances 2027 : mesures d'impôt sur les sociétés",
+    "stage": "Adopté par la Chambre des représentants le 14 novembre 2026, en examen à la Chambre des conseillers",
+    "law": "Projet de loi de finances n° 60-26 pour l'année 2027",
+    "articles": "Articles 9-II, 11-II et 19-I (modifications proposées)",
+    "effective": "Exercices ouverts à compter du 1er janvier 2027, en cas d'adoption définitive et de publication",
+    "points": [
+     "Taux porté de 35 % à 40 % pour les importateurs et distributeurs de produits hydrocarbures dont le bénéfice net atteint 100 millions de DH ou plus. L'extension aux télécoms et au ciment n'a pas été retenue par la Chambre des représentants.",
+     "Étalement sur 10 exercices des subventions destinées à des actifs non amortissables (comme le fonds de commerce).",
+     "Avance de 5 % perçue en douane sur les importations destinées à la revente, imputable sur l'IS ou l'IR.",
+     "Le dépôt sur le compte bancaire du fournisseur admis comme moyen de paiement (article 11-II) à compter du 1er janvier 2027.",
+     "Exonérations temporaires au profit des organismes liés à l'organisation de la Coupe du monde 2030."
+    ]
+   }
   },
   {
    "id": "loi-67-12",
@@ -408,7 +587,18 @@
      "url": "https://adala.justice.gov.ma/adala/new_ar_pdf/bb6674c0aa5d1316fdd27ca36c26f882af8540c6f473554ddce730e51eeb7600.pdf"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Baux d'habitation et à usage professionnel",
+    "law": "Dahir 1-13-111 (19 novembre 2013), BO n° 6208 (28 novembre 2013) ; modifié par la loi 05-19, BO n° 6754 (21 février 2019)",
+    "articles": "Loi n° 67-12",
+    "effective": "En vigueur",
+    "points": [
+     "Le contrat de bail doit être écrit.",
+     "Le dépôt de garantie ne dépasse pas deux mois de loyer et est restitué à la fin du bail (art. 20).",
+     "La révision du loyer relève de la loi 07-03 (voir la fiche suivante)."
+    ]
+   }
   },
   {
    "id": "loi-07-03",
@@ -429,7 +619,18 @@
      "url": "https://adala.justice.gov.ma/adala/new_ar_pdf/4209dd99c853d48d7238a172c93d1a78f01b7736e45e2f88094cc2daf58fd839.pdf"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Révision du montant des loyers (habitation, professionnel, commercial, industriel, artisanal)",
+    "law": "Dahir 1-07-134 (30 novembre 2007), BO n° 5586 (13 décembre 2007)",
+    "articles": "Articles 2 à 5 de la loi n° 07-03",
+    "effective": "En vigueur",
+    "points": [
+     "Pas de hausse convenue avant 3 ans depuis la conclusion du bail ou la dernière révision judiciaire ou conventionnelle (art. 2).",
+     "Taux maximum de hausse : 8 % pour les locaux d'habitation et 10 % pour les autres locaux (art. 4).",
+     "Si le loyer ne dépasse pas 400 DH, le tribunal fixe la hausse librement, sans être tenu par ces taux (art. 5)."
+    ]
+   }
   },
   {
    "id": "loi-49-16",
@@ -450,7 +651,18 @@
      "url": "https://adala.justice.gov.ma/adala/new_ar_pdf/13692282871e2aec7dac3aadc3d03195949ad9fff63f716ce22758b116ce5e0a.pdf"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Baux des immeubles ou locaux commerciaux, industriels ou artisanaux",
+    "law": "Dahir 1-16-99 (18 juillet 2016), BO n° 6490 (11 août 2016)",
+    "articles": "Loi n° 49-16",
+    "effective": "En vigueur",
+    "points": [
+     "Contrat écrit et à date certaine.",
+     "Droit au renouvellement pour le locataire après au moins deux ans d'exploitation effective du fonds dans le local.",
+     "La révision du loyer relève de la loi 07-03."
+    ]
+   }
   },
   {
    "id": "projet-67-12",
@@ -471,7 +683,18 @@
      "url": "https://www.hespress.com/127-%D8%A3%D9%84%D9%81-%D9%85%D8%B3%D8%AA%D9%81%D9%8A%D8%AF-%D9%85%D9%86-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B3%D9%83%D9%86-%D9%88%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D8%B9%D8%AA%D8%B2-1837396.html"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Projet de loi modifiant et complétant la loi 67-12",
+    "stage": "Annoncé, non déposé au Parlement",
+    "law": "Pas encore de texte",
+    "articles": "Loi n° 67-12",
+    "effective": "Non déterminé",
+    "points": [
+     "Le ministère de l'Aménagement du territoire, de l'Urbanisme, de l'Habitat et de la Politique de la ville a annoncé le 9 novembre 2026, devant une commission de la Chambre des représentants, un projet de loi modifiant la loi 67-12.",
+     "Ni le contenu ni le calendrier n'ont été dévoilés."
+    ]
+   }
   },
   {
    "id": "loi-41-25",
@@ -496,7 +719,18 @@
      "url": "https://presstetouan.com/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9/"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Acte authentique obligatoire pour toutes les opérations immobilières",
+    "law": "Loi n° 41-25, dahir 1-26-30 (3 juillet 2026), BO n° 7526 (16 juillet 2026)",
+    "articles": "Article 4 de la loi 39-08 ; article 618-3 du DOC ; article 12 de la loi 18-00 ; article 4 de la loi 51-00",
+    "effective": "Dès la publication au Bulletin officiel",
+    "points": [
+     "Tous les actes translatifs de propriété, ou constitutifs, translatifs, modificatifs ou extinctifs de droits réels, y compris la promesse de vente et les procurations y afférentes, sont établis par acte authentique, sous peine de nullité.",
+     "L'option de l'acte à date certaine rédigé par un avocat agréé près la Cour de cassation est supprimée.",
+     "Le même principe s'applique au contrat préliminaire de VEFA, à la copropriété et à la location-accession."
+    ]
+   }
   },
   {
    "id": "vefa",
@@ -516,7 +750,17 @@
      "url": "https://adala.justice.gov.ma/api/uploads/2024/10/24/ظهير بمثابة قانون الالتزامات والعقود-1729777400387.pdf"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Vente d'immeubles en l'état futur d'achèvement",
+    "law": "Loi n° 107-12, dahir 1-16-05 (3 février 2016), BO n° 6440 (18 février 2016)",
+    "articles": "Articles 618-1 et suivants du DOC",
+    "effective": "En vigueur",
+    "points": [
+     "Régie par la loi 44-00 telle que modifiée et complétée par la loi 107-12 (articles 618-1 et suivants du DOC).",
+     "Depuis la loi 41-25, le contrat préliminaire est établi uniquement par acte authentique."
+    ]
+   }
   },
   {
    "id": "projet-107-12",
@@ -537,7 +781,18 @@
      "url": "https://www.hespress.com/127-%D8%A3%D9%84%D9%81-%D9%85%D8%B3%D8%AA%D9%81%D9%8A%D8%AF-%D9%85%D9%86-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B3%D9%83%D9%86-%D9%88%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D8%B9%D8%AA%D8%B2-1837396.html"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Projet de loi modifiant la loi 107-12 (VEFA)",
+    "stage": "Annoncé, non déposé au Parlement",
+    "law": "Pas encore de texte",
+    "articles": "Loi n° 107-12",
+    "effective": "Non déterminé",
+    "points": [
+     "Le ministère de l'Habitat a annoncé le 9 novembre 2026 un projet de loi modifiant la loi 107-12.",
+     "Ni le contenu ni le calendrier n'ont encore été annoncés."
+    ]
+   }
   },
   {
    "id": "loi-14-25",
@@ -561,7 +816,17 @@
      "url": "https://al3omk.com/1091172.html"
     }
    ],
-   "verified": "2026-11-22"
+   "verified": "2026-11-22",
+   "fr": {
+    "title": "Taxe sur les terrains urbains non bâtis et gestion des taxes locales",
+    "law": "Loi n° 14-25, publiée au Bulletin officiel le 12 juin 2025",
+    "articles": "Loi n° 47-06 relative à la fiscalité des collectivités territoriales, telle que modifiée et complétée",
+    "effective": "Dès la publication",
+    "points": [
+     "Taux fixé selon le niveau d'équipement : de 15 à 30 DH/m² dans les zones équipées, de 5 à 15 dans les zones moyennement équipées, de 0,5 à 2 dans les zones faiblement équipées.",
+     "La DGI assure l'émission et le recouvrement de la taxe d'habitation, de la taxe de services communaux et de la taxe professionnelle."
+    ]
+   }
   }
  ],
  "log": [
@@ -576,6 +841,18 @@
   {
    "date": "2026-11-23",
    "text": "إضافة المدونة العامة للضرائب 2026 كاملة (371 مادة) بالعربية والفرنسية مع شرح مبسط لكل مادة وبحث في اللغتين."
+  },
+  {
+   "date": "2026-11-23",
+   "text": "إضافة ملحقات المدونة: مقتضيات قوانين المالية 2008–2026 غير المدمجة، 18 مرسوماً تطبيقياً، 8 قرارات ومقررات، وجداول معاملات إعادة التقييم وأسعار الصرف والفوائد، مع شرح لكل نص. حاسبة الربح العقاري تملأ المعامل تلقائياً."
+  },
+  {
+   "date": "2026-11-23",
+   "text": "مراجعة أسبوعية (تشغيل يدوي): لا تغيير. مشروع قانون المالية 2027 (60.26) ما يزال أمام لجنة المالية بمجلس المستشارين بعد عرض الوزير يوم 17 نونبر 2026؛ لا جديد في الجريدة الرسمية ولا مذكرة دورية جديدة للمديرية العامة للضرائب، ولا مشروع قانون مودع لتعديل 67.12 أو 107.12."
+  },
+  {
+   "date": "2026-11-24",
+   "text": "إضافة قسم «قصص ضريبية»: 12 قصة تعليمية بأسماء وهمية تشرح قواعد 2026 بأمثلة محسوبة (الأجور، الكراء، الأرباح العقارية، واجبات التسجيل، المقاول الذاتي، الحد الأدنى، الأرباح الموزعة، الجزاءات، مراجعة الكراء، حجز 5%)، قابلة للمشاركة كصورة أو نص عبر واتساب."
   }
  ],
  "exemptions": [
@@ -589,6 +866,12 @@
    "source": {
     "label": "Upsilon: دليل الضريبة على الشركات 2026",
     "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
+   },
+   "fr": {
+    "case": "Associations et organismes à but non lucratif",
+    "cond": "Pour les seules opérations conformes à leur objet statutaire",
+    "ref": "Art. 6-I-A",
+    "kind": "permanente"
    }
   },
   {
@@ -601,6 +884,12 @@
    "source": {
     "label": "Upsilon: دليل الضريبة على الشركات 2026",
     "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
+   },
+   "fr": {
+    "case": "Coopératives et leurs unions",
+    "cond": "Dans les conditions de l'article 7-I",
+    "ref": "Art. 6-I-A et 7-I",
+    "kind": "permanente"
    }
   },
   {
@@ -613,6 +902,12 @@
    "source": {
     "label": "Upsilon: دليل الضريبة على الشركات 2026",
     "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
+   },
+   "fr": {
+    "case": "Organismes de placement collectif (OPCVM, OPCI, FPCT, OPCC)",
+    "cond": "Pour les bénéfices réalisés dans le cadre de leur objet légal",
+    "ref": "Art. 6-I-A",
+    "kind": "permanente"
    }
   },
   {
@@ -625,6 +920,12 @@
    "source": {
     "label": "Upsilon: دليل الضريبة على الشركات 2026",
     "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
+   },
+   "fr": {
+    "case": "Sociétés agricoles",
+    "cond": "Chiffre d'affaires inférieur à 5 millions de DH, sous conditions",
+    "ref": "Art. 6-I-A et 247-XXIII",
+    "kind": "permanente"
    }
   },
   {
@@ -637,6 +938,12 @@
    "source": {
     "label": "Upsilon: دليل الضريبة على الشركات 2026",
     "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
+   },
+   "fr": {
+    "case": "Fédérations sportives d'utilité publique et représentations de la FIFA au Maroc",
+    "cond": "Pour leurs activités conformes à leur objet",
+    "ref": "Art. 6-I-A",
+    "kind": "permanente"
    }
   },
   {
@@ -649,6 +956,12 @@
    "source": {
     "label": "Upsilon: دليل الضريبة على الشركات 2026",
     "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
+   },
+   "fr": {
+    "case": "Sociétés des zones d'accélération industrielle",
+    "cond": "5 ans à compter du début d'exploitation, puis 20 %",
+    "ref": "Art. 6-II-B",
+    "kind": "temporaire"
    }
   },
   {
@@ -661,6 +974,12 @@
    "source": {
     "label": "Upsilon: دليل الضريبة على الشركات 2026",
     "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
+   },
+   "fr": {
+    "case": "Sociétés de Casablanca Finance City (hors crédit et assurance)",
+    "cond": "5 ans, puis 20 %",
+    "ref": "Art. 6-II-B",
+    "kind": "temporaire"
    }
   },
   {
@@ -673,6 +992,12 @@
    "source": {
     "label": "Upsilon: دليل الضريبة على الشركات 2026",
     "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
+   },
+   "fr": {
+    "case": "Sociétés sportives (loi 30-09)",
+    "cond": "5 ans à compter de la première opération de vente imposable",
+    "ref": "Art. 6-II-B",
+    "kind": "temporaire"
    }
   },
   {
@@ -685,6 +1010,12 @@
    "source": {
     "label": "Upsilon: دليل الضريبة على الشركات 2026",
     "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
+   },
+   "fr": {
+    "case": "Établissements hôteliers et sociétés d'animation touristique",
+    "cond": "5 ans sur le chiffre d'affaires réalisé en devises rapatriées",
+    "ref": "Art. 6-II-B",
+    "kind": "temporaire"
    }
   },
   {
@@ -697,6 +1028,12 @@
    "source": {
     "label": "Upsilon: دليل الضريبة على الشركات 2026",
     "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
+   },
+   "fr": {
+    "case": "Sociétés industrielles et activités fixées par voie réglementaire",
+    "cond": "5 ans à compter du début d'exploitation",
+    "ref": "Art. 6-II-B",
+    "kind": "temporaire"
    }
   },
   {
@@ -709,6 +1046,12 @@
    "source": {
     "label": "Upsilon: دليل الضريبة على الشركات 2026",
     "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
+   },
+   "fr": {
+    "case": "Centres de gestion de comptabilité agréés",
+    "cond": "4 ans à compter de l'agrément",
+    "ref": "Art. 6-II-B",
+    "kind": "temporaire"
    }
   },
   {
@@ -721,6 +1064,12 @@
    "source": {
     "label": "Upsilon: دليل الضريبة على الشركات 2026",
     "url": "https://www.upsilon-consulting.com/assets/pdf/guide-is-maroc-2026.pdf"
+   },
+   "fr": {
+    "case": "Concessions d'exploitation des hydrocarbures",
+    "cond": "10 ans à compter du début de la production régulière",
+    "ref": "Art. 6-II-B",
+    "kind": "temporaire"
    }
   },
   {
@@ -733,6 +1082,12 @@
    "source": {
     "label": "PwC Tax Summaries",
     "url": "https://taxsummaries.pwc.com/morocco/corporate/taxes-on-corporate-income"
+   },
+   "fr": {
+    "case": "Sociétés nouvellement en activité",
+    "cond": "36 premiers mois d'exploitation, sauf concessionnaires de service public",
+    "ref": "Art. 144-I-C",
+    "kind": "temporaire"
    }
   },
   {
@@ -745,6 +1100,12 @@
    "source": {
     "label": "Le360: مساهمة التضامن",
     "url": "https://fr.le360.ma/economie/plf-2026-la-taxe-de-solidarite-reconduite-jusquen-2028_FPO4C5XVKRFFPDRK5NK6LEVTJ4/"
+   },
+   "fr": {
+    "case": "Sociétés et professionnels dont le bénéfice est inférieur à 1 million de DH",
+    "cond": "Non soumis à la contribution",
+    "ref": "Art. 267",
+    "kind": "permanente"
    }
   },
   {
@@ -757,6 +1118,12 @@
    "source": {
     "label": "المذكرة الدورية 737",
     "url": "https://www.tax.gov.ma/wps/wcm/connect/e48c5c9d-ae80-4b30-a1b3-80af7ec09be1/NC+737+LF+2026.pdf?MOD=AJPERES"
+   },
+   "fr": {
+    "case": "Tranche exonérée du revenu",
+    "cond": "Jusqu'à 40 000 DH net par an",
+    "ref": "Art. 73-I",
+    "kind": "permanente"
    }
   },
   {
@@ -769,6 +1136,12 @@
    "source": {
     "label": "Le360: الجداول 2027 إلى 2030",
     "url": "https://fr.le360.ma/economie/reforme-de-lir-les-nouveaux-baremes-de-2027-a-2030-etape-par-etape-vers-un-taux-maximal-de-30_IV4K3SYWDRFLTKETNA4TORQQOY/"
+   },
+   "fr": {
+    "case": "Tranche exonérée du revenu (projet 2027)",
+    "cond": "Jusqu'à 60 000 DH net par an à compter des revenus de 2027",
+    "ref": "Art. 73-I (modification proposée)",
+    "kind": "permanente"
    }
   },
   {
@@ -781,6 +1154,12 @@
    "source": {
     "label": "Upsilon: الربح العقاري 2026",
     "url": "https://upsilon-consulting.com/profit-foncier-cession-immobiliere-maroc/"
+   },
+   "fr": {
+    "case": "Habitation principale",
+    "cond": "Occupée au moins 5 ans et non louée ; prix jusqu'à 4 000 000 DH, et 3 % sur l'excédent",
+    "ref": "Art. 63-II-B et 144-II",
+    "kind": "permanente"
    }
   },
   {
@@ -793,6 +1172,12 @@
    "source": {
     "label": "Upsilon: الربح العقاري 2026",
     "url": "https://upsilon-consulting.com/profit-foncier-cession-immobiliere-maroc/"
+   },
+   "fr": {
+    "case": "Petites cessions",
+    "cond": "Valeur totale des cessions de l'année civile n'excédant pas 140 000 DH",
+    "ref": "Art. 63-II-A",
+    "kind": "permanente"
    }
   },
   {
@@ -805,6 +1190,12 @@
    "source": {
     "label": "Upsilon: الربح العقاري 2026",
     "url": "https://upsilon-consulting.com/profit-foncier-cession-immobiliere-maroc/"
+   },
+   "fr": {
+    "case": "Donations entre ascendants, descendants, époux, frères et sœurs",
+    "cond": "Exonérées de l'impôt sur le profit ; les droits d'enregistrement restent dus",
+    "ref": "Art. 63",
+    "kind": "permanente"
    }
   },
   {
@@ -817,6 +1208,12 @@
    "source": {
     "label": "Upsilon: الدخول العقارية 2026",
     "url": "https://upsilon-consulting.com/revenus-fonciers-ir-maroc/"
+   },
+   "fr": {
+    "case": "Petits loyers versés au même propriétaire",
+    "cond": "Pas de retenue si le loyer ne dépasse pas 40 000 DH par an ; le revenu reste imposable",
+    "ref": "Art. 160 bis",
+    "kind": "permanente"
    }
   },
   {
@@ -829,6 +1226,12 @@
    "source": {
     "label": "Upsilon: الدخول العقارية 2026",
     "url": "https://upsilon-consulting.com/revenus-fonciers-ir-maroc/"
+   },
+   "fr": {
+    "case": "Déclaration annuelle",
+    "cond": "Pas de déclaration pour les revenus soumis au taux libératoire de 20 % sur option",
+    "ref": "Art. 64-IV et 86",
+    "kind": "permanente"
    }
   },
   {
@@ -841,6 +1244,12 @@
    "source": {
     "label": "Upsilon: الأرباح الموزعة",
     "url": "https://upsilon-consulting.com/retenue-a-la-source-sur-dividendes-au-maroc/"
+   },
+   "fr": {
+    "case": "Dividendes versés à une société résidente",
+    "cond": "Pas de retenue si le bénéficiaire est soumis à l'IS, avec attestation de propriété",
+    "ref": "Art. 6-I-C-1° et 13",
+    "kind": "permanente"
    }
   },
   {
@@ -853,6 +1262,12 @@
    "source": {
     "label": "المذكرة الدورية 737",
     "url": "https://www.tax.gov.ma/wps/wcm/connect/e48c5c9d-ae80-4b30-a1b3-80af7ec09be1/NC+737+LF+2026.pdf?MOD=AJPERES"
+   },
+   "fr": {
+    "case": "Prêts accordés par les établissements de crédit",
+    "cond": "Exonération des droits d'enregistrement pour les actes enregistrés à compter du 1er janvier 2026",
+    "ref": "Art. 129-V-4°",
+    "kind": "permanente"
    }
   },
   {
@@ -865,6 +1280,12 @@
    "source": {
     "label": "المذكرة الدورية 737",
     "url": "https://www.tax.gov.ma/wps/wcm/connect/e48c5c9d-ae80-4b30-a1b3-80af7ec09be1/NC+737+LF+2026.pdf?MOD=AJPERES"
+   },
+   "fr": {
+    "case": "Cessions de parts de sociétés non immobilières",
+    "cond": "Exonération à compter du 1er janvier 2026, sous conditions",
+    "ref": "Art. 129-IV-25°",
+    "kind": "permanente"
    }
   },
   {
@@ -877,6 +1298,12 @@
    "source": {
     "label": "المذكرة الدورية 737",
     "url": "https://www.tax.gov.ma/wps/wcm/connect/e48c5c9d-ae80-4b30-a1b3-80af7ec09be1/NC+737+LF+2026.pdf?MOD=AJPERES"
+   },
+   "fr": {
+    "case": "Acquisitions des œuvres sociales des administrations",
+    "cond": "Exonération à compter du 1er janvier 2026",
+    "ref": "Art. 129-III-21°",
+    "kind": "permanente"
    }
   },
   {
@@ -889,6 +1316,12 @@
    "source": {
     "label": "المذكرة الدورية 737",
     "url": "https://www.tax.gov.ma/wps/wcm/connect/e48c5c9d-ae80-4b30-a1b3-80af7ec09be1/NC+737+LF+2026.pdf?MOD=AJPERES"
+   },
+   "fr": {
+    "case": "Bailleurs exclus de la retenue de 5 %",
+    "cond": "État, collectivités territoriales, Habous, organismes exonérés de façon permanente, OPCI et sociétés de crédit-bail",
+    "ref": "Art. 15 ter (selon la NC 737)",
+    "kind": "permanente"
    }
   }
  ],
@@ -908,6 +1341,1367 @@
   "updated": "2026-11-23",
   "count": 371,
   "url": "https://raw.githubusercontent.com/ahmedamintamimi/galaxy-veille/main/cgi.json",
-  "next": "إصدار 2027 منتظر بعد نشر قانون المالية 2027 في الجريدة الرسمية (عادة نهاية دجنبر أو يناير)."
+  "next": "إصدار 2027 منتظر بعد نشر قانون المالية 2027 في الجريدة الرسمية (عادة نهاية دجنبر أو يناير).",
+  "rev": 2,
+  "annex": 46
+ },
+ "stories": [
+  {
+   "id": "youssef-salaire",
+   "tax": "الضريبة على الدخل · الأجور",
+   "title": "يوسف نسي أن يصرّح بأبنائه",
+   "text": [
+    "يوسف إطار في شركة بالدار البيضاء، أجره الإجمالي الخاضع 120 000 درهم في السنة. متزوج وله طفلان.",
+    "لاحظ أن الضريبة في ورقة أدائه أعلى من ضريبة زميله الذي يتقاضى الأجر نفسه. السبب: لم يسلّم لمشغّله ما يثبت أن زوجته وطفليه في كفالته، فلم يُخصم له شيء عن الأعباء العائلية."
+   ],
+   "calc": [
+    [
+     "الأجر الإجمالي الخاضع",
+     "120 000 درهم"
+    ],
+    [
+     "المصاريف المهنية 25% (سقف 35 000)",
+     "- 30 000 درهم"
+    ],
+    [
+     "الاشتراكات الاجتماعية (مثال)",
+     "- 7 000 درهم"
+    ],
+    [
+     "صافي الدخل الخاضع",
+     "83 000 درهم"
+    ],
+    [
+     "الضريبة حسب الجدول: 83 000 × 30% - 18 000",
+     "6 900 درهم"
+    ],
+    [
+     "خصم الأعباء العائلية: 3 × 600",
+     "- 1 800 درهم"
+    ],
+    [
+     "الضريبة السنوية بعد التصريح بالأسرة",
+     "5 100 درهم",
+     1
+    ]
+   ],
+   "lessons": [
+    "يُخصم 600 درهم سنوياً عن كل شخص في الكفالة، في حدود 6 أشخاص (3 600 درهم).",
+    "سلّم لمشغّلك الوثائق المثبتة للأعباء العائلية حتى يطبق الخصم كل شهر في ورقة الأداء.",
+    "هنا ربح يوسف 1 800 درهم في السنة، أي 150 درهماً في الشهر."
+   ],
+   "refs": [
+    "59",
+    "73",
+    "74",
+    "75"
+   ],
+   "status": "inforce",
+   "fr": {
+    "tax": "IR · Salaires",
+    "title": "Youssef avait oublié de déclarer ses enfants",
+    "text": [
+     "Youssef est cadre dans une société à Casablanca. Son salaire brut imposable est de 120 000 DH par an. Il est marié et a deux enfants.",
+     "Il remarque que l'IR sur son bulletin est plus élevé que celui de son collègue au même salaire. La raison : il n'a pas remis à son employeur les justificatifs de sa femme et de ses enfants à charge, donc aucune réduction familiale ne lui est appliquée."
+    ],
+    "calc": [
+     [
+      "Salaire brut imposable",
+      "120 000 DH"
+     ],
+     [
+      "Frais professionnels 25 % (plafond 35 000)",
+      "- 30 000 DH"
+     ],
+     [
+      "Cotisations sociales (exemple)",
+      "- 7 000 DH"
+     ],
+     [
+      "Revenu net imposable",
+      "83 000 DH"
+     ],
+     [
+      "IR au barème : 83 000 × 30 % − 18 000",
+      "6 900 DH"
+     ],
+     [
+      "Réduction pour charges de famille : 3 × 600",
+      "- 1 800 DH"
+     ],
+     [
+      "IR annuel après déclaration de la famille",
+      "5 100 DH",
+      1
+     ]
+    ],
+    "lessons": [
+     "600 DH par an sont déduits pour chaque personne à charge, dans la limite de 6 personnes (3 600 DH).",
+     "Remettez à votre employeur les justificatifs des charges de famille pour que la réduction s'applique chaque mois.",
+     "Ici, Youssef gagne 1 800 DH par an, soit 150 DH par mois."
+    ]
+   }
+  },
+  {
+   "id": "hajj-ahmed-loyer",
+   "tax": "الدخول العقارية",
+   "title": "الحاج أحمد يسترجع جزءاً من ضريبة الكراء",
+   "text": [
+    "الحاج أحمد متقاعد بلا دخل آخر خاضع، يكري محلاً لشركة بـ 9 000 درهم في الشهر، أي 108 000 درهم في السنة.",
+    "الشركة المكترية تحجز 10% من كل أداء وتوردها للخزينة. ظن الحاج أن الأمر انتهى، لكن محاسبه نصحه بإيداع الإقرار السنوي، فتبيّن أن ضريبته الحقيقية أقل بكثير مما حُجز."
+   ],
+   "calc": [
+    [
+     "الكراء الإجمالي السنوي",
+     "108 000 درهم"
+    ],
+    [
+     "المحجوز في المنبع 10%",
+     "10 800 درهم"
+    ],
+    [
+     "صافي الدخل العقاري بعد خصم جزافي 40%",
+     "64 800 درهم"
+    ],
+    [
+     "الضريبة حسب الجدول: 64 800 × 20% - 10 000",
+     "2 960 درهم"
+    ],
+    [
+     "المبلغ الذي يسترجعه بعد الإقرار",
+     "7 840 درهم",
+     1
+    ]
+   ],
+   "lessons": [
+    "الحجز بنسبة 10% أو 15% على الكراء المدفوع من شركة ليس ضريبة نهائية: هو تسبيق يُقارن بالضريبة الحقيقية.",
+    "إذا تجاوز المحجوز الضريبة المستحقة، يُرجع الفرق تلقائياً بناءً على الإقرار بمجموع الدخل.",
+    "الإقرار يُودع قبل فاتح مارس من السنة الموالية."
+   ],
+   "refs": [
+    "64",
+    "73",
+    "160 bis",
+    "82",
+    "241 bis"
+   ],
+   "status": "inforce",
+   "fr": {
+    "tax": "Revenus fonciers",
+    "title": "Hajj Ahmed récupère une partie de l'impôt sur ses loyers",
+    "text": [
+     "Hajj Ahmed est retraité sans autre revenu imposable. Il loue un local à une société pour 9 000 DH par mois, soit 108 000 DH par an.",
+     "La société locataire retient 10 % de chaque paiement et les verse au Trésor. Il pensait que tout était réglé, mais son comptable lui a conseillé de déposer la déclaration annuelle : son impôt réel est bien inférieur à la retenue."
+    ],
+    "calc": [
+     [
+      "Loyer brut annuel",
+      "108 000 DH"
+     ],
+     [
+      "Retenue à la source 10 %",
+      "10 800 DH"
+     ],
+     [
+      "Revenu foncier net après abattement de 40 %",
+      "64 800 DH"
+     ],
+     [
+      "IR au barème : 64 800 × 20 % − 10 000",
+      "2 960 DH"
+     ],
+     [
+      "Montant restitué après déclaration",
+      "7 840 DH",
+      1
+     ]
+    ],
+    "lessons": [
+     "La retenue de 10 % ou 15 % sur les loyers versés par une société n'est pas un impôt définitif : c'est un acompte comparé à l'impôt réel.",
+     "Si la retenue dépasse l'impôt dû, la différence est restituée d'office sur la base de la déclaration du revenu global.",
+     "La déclaration est déposée avant le 1er mars de l'année suivante."
+    ]
+   }
+  },
+  {
+   "id": "karim-tpi",
+   "tax": "الأرباح العقارية",
+   "title": "كريم باع شقته بربح صغير وأدى 3% من الثمن",
+   "text": [
+    "اشترى كريم شقة سنة 2015 بـ 600 000 درهم، وباعها في 2026 بـ 950 000 درهم. كانت شقة ثانية يكريها، فلا يستفيد من إعفاء السكن الرئيسي.",
+    "حسب كريم أن ضريبته 20% من الربح، لكنه فوجئ بأن المبلغ المطلوب أعلى."
+   ],
+   "calc": [
+    [
+     "ثمن البيع",
+     "950 000 درهم"
+    ],
+    [
+     "ثمن الشراء",
+     "600 000 درهم"
+    ],
+    [
+     "مصاريف الشراء 15% جزافاً",
+     "90 000 درهم"
+    ],
+    [
+     "التكلفة × معامل إعادة التقييم 2015 (1,223)",
+     "843 870 درهم"
+    ],
+    [
+     "الربح الصافي",
+     "106 130 درهم"
+    ],
+    [
+     "20% من الربح",
+     "21 226 درهم"
+    ],
+    [
+     "الحد الأدنى: 3% من ثمن البيع",
+     "28 500 درهم"
+    ],
+    [
+     "الضريبة المستحقة (الأعلى بين المبلغين)",
+     "28 500 درهم",
+     1
+    ]
+   ],
+   "lessons": [
+    "يُؤدى دائماً الأعلى بين 20% من الربح و3% من ثمن البيع، حتى لو كان الربح ضعيفاً أو منعدماً.",
+    "معامل إعادة التقييم يرفع تكلفة الشراء حسب سنة الاقتناء (جدول ملحق بالمدونة).",
+    "الإقرار والأداء داخل 30 يوماً من تاريخ البيع. احتفظ بفواتير الأشغال لأنها تُضاف إلى التكلفة."
+   ],
+   "refs": [
+    "61",
+    "65",
+    "73",
+    "144",
+    "83"
+   ],
+   "status": "inforce",
+   "fr": {
+    "tax": "Profits immobiliers",
+    "title": "Karim a vendu avec un petit profit et a payé 3 % du prix",
+    "text": [
+     "Karim a acheté un appartement en 2015 pour 600 000 DH et l'a vendu en 2026 pour 950 000 DH. C'était un second logement loué : pas d'exonération d'habitation principale.",
+     "Il pensait payer 20 % du profit, mais le montant réclamé était plus élevé."
+    ],
+    "calc": [
+     [
+      "Prix de vente",
+      "950 000 DH"
+     ],
+     [
+      "Prix d'achat",
+      "600 000 DH"
+     ],
+     [
+      "Frais d'acquisition forfaitaires 15 %",
+      "90 000 DH"
+     ],
+     [
+      "Coût × coefficient de réévaluation 2015 (1,223)",
+      "843 870 DH"
+     ],
+     [
+      "Profit net",
+      "106 130 DH"
+     ],
+     [
+      "20 % du profit",
+      "21 226 DH"
+     ],
+     [
+      "Minimum : 3 % du prix de vente",
+      "28 500 DH"
+     ],
+     [
+      "Impôt dû (le plus élevé des deux)",
+      "28 500 DH",
+      1
+     ]
+    ],
+    "lessons": [
+     "On paie toujours le plus élevé entre 20 % du profit et 3 % du prix, même si le profit est faible ou nul.",
+     "Le coefficient de réévaluation augmente le coût d'achat selon l'année d'acquisition (tableau annexé au CGI).",
+     "Déclaration et paiement dans les 30 jours de la vente. Gardez les factures de travaux : elles s'ajoutent au coût."
+    ]
+   }
+  },
+  {
+   "id": "nadia-residence",
+   "tax": "الأرباح العقارية · إعفاء",
+   "title": "نادية باعت سكنها الرئيسي بدون ضريبة",
+   "text": [
+    "اشترت نادية شقة سنة 2019 بـ 700 000 درهم وسكنت فيها ست سنوات، ثم باعتها في 2026 بـ 1 200 000 درهم بعد انتقالها إلى مدينة أخرى بأربعة أشهر.",
+    "جارتها باعت شقة مماثلة بالثمن نفسه، لكنها كانت قد أكرتها في السنتين الأخيرتين، فلم تستفد من الإعفاء."
+   ],
+   "calc": [
+    [
+     "ثمن البيع",
+     "1 200 000 درهم"
+    ],
+    [
+     "الربح الصافي (بمعامل 2019: 1,173)",
+     "255 735 درهم"
+    ],
+    [
+     "ضريبة نادية: سكن رئيسي منذ 6 سنوات وثمن لا يتجاوز 4 ملايين",
+     "0 درهم",
+     1
+    ],
+    [
+     "ضريبة الجارة لأن الشقة كانت مكتراة",
+     "51 147 درهم"
+    ]
+   ],
+   "lessons": [
+    "الإعفاء يشترط سكناً رئيسياً فعلياً لمدة 5 سنوات على الأقل عند تاريخ البيع، دون كرائه أو تخصيصه لغرض مهني.",
+    "تُمنح مهلة سنة واحدة من تاريخ إخلاء السكن لإتمام البيع، والإعفاء مرة واحدة خلال 5 سنوات.",
+    "إذا تجاوز الثمن 4 000 000 درهم، يُؤدى 3% على الجزء الزائد فقط."
+   ],
+   "refs": [
+    "63",
+    "144"
+   ],
+   "status": "inforce",
+   "fr": {
+    "tax": "Profits immobiliers · Exonération",
+    "title": "Nadia a vendu son habitation principale sans impôt",
+    "text": [
+     "Nadia a acheté un appartement en 2019 pour 700 000 DH et y a habité six ans. Elle l'a vendu en 2026 pour 1 200 000 DH, quatre mois après avoir déménagé dans une autre ville.",
+     "Sa voisine a vendu un appartement similaire au même prix, mais elle l'avait loué les deux dernières années : pas d'exonération."
+    ],
+    "calc": [
+     [
+      "Prix de vente",
+      "1 200 000 DH"
+     ],
+     [
+      "Profit net (coefficient 2019 : 1,173)",
+      "255 735 DH"
+     ],
+     [
+      "Impôt de Nadia : habitation principale depuis 6 ans, prix ≤ 4 millions",
+      "0 DH",
+      1
+     ],
+     [
+      "Impôt de la voisine, l'appartement étant loué",
+      "51 147 DH"
+     ]
+    ],
+    "lessons": [
+     "L'exonération exige une habitation principale effective d'au moins 5 ans à la date de la vente, sans location ni usage professionnel.",
+     "Un délai d'un an à compter de la libération du logement est accordé pour vendre ; l'exonération ne joue qu'une fois sur 5 ans.",
+     "Au-delà de 4 000 000 DH, 3 % sont dus sur la seule fraction excédentaire."
+    ]
+   }
+  },
+  {
+   "id": "samir-especes",
+   "tax": "واجبات التسجيل",
+   "title": "سمير دفع جزءاً من الثمن نقداً",
+   "text": [
+    "اشترى سمير شقة في دجنبر 2026 بـ 1 500 000 درهم. أدى 1 300 000 درهم بتحويل بنكي، و200 000 درهم نقداً للبائع.",
+    "عند تسجيل العقد، اكتشف أن الجزء النقدي يكلّفه واجباً إضافياً."
+   ],
+   "calc": [
+    [
+     "واجبات التسجيل 4% على 1 500 000",
+     "60 000 درهم"
+    ],
+    [
+     "الواجب الإضافي 2% على الجزء النقدي (200 000)",
+     "4 000 درهم"
+    ],
+    [
+     "المجموع",
+     "64 000 درهم",
+     1
+    ],
+    [
+     "لو لم يذكر العقد طرق الأداء ومراجعها: 2% على كامل الثمن",
+     "+ 30 000 درهم"
+    ]
+   ],
+   "lessons": [
+    "يُطبق واجب إضافي 2% على بيع عقار يفوق ثمنه 300 000 درهم إذا دُفع الثمن نقداً أو لم يذكر العقد طرق الأداء ومراجعها.",
+    "في الأداء المختلط، يُطبق على الجزء النقدي فقط. ادفع بالتحويل أو الشيك وضمّن المراجع في العقد.",
+    "يسري على العقود المبرمة ابتداء من فاتح يوليوز 2026."
+   ],
+   "refs": [
+    "133",
+    "128"
+   ],
+   "status": "inforce",
+   "fr": {
+    "tax": "Droits d'enregistrement",
+    "title": "Samir a payé une partie du prix en espèces",
+    "text": [
+     "Samir a acheté un appartement en décembre 2026 pour 1 500 000 DH. Il a payé 1 300 000 DH par virement et 200 000 DH en espèces au vendeur.",
+     "À l'enregistrement, il découvre que la partie en espèces lui coûte un droit supplémentaire."
+    ],
+    "calc": [
+     [
+      "Droits d'enregistrement 4 % sur 1 500 000",
+      "60 000 DH"
+     ],
+     [
+      "Droit supplémentaire 2 % sur la partie en espèces (200 000)",
+      "4 000 DH"
+     ],
+     [
+      "Total",
+      "64 000 DH",
+      1
+     ],
+     [
+      "Si l'acte ne mentionne pas les modalités et références de paiement : 2 % sur tout le prix",
+      "+ 30 000 DH"
+     ]
+    ],
+    "lessons": [
+     "Un droit supplémentaire de 2 % s'applique à la vente d'un immeuble de plus de 300 000 DH si le prix est payé en espèces ou si l'acte ne mentionne pas les modalités et références de paiement.",
+     "En paiement mixte, il ne s'applique qu'à la partie en espèces. Payez par virement ou chèque et indiquez les références dans l'acte.",
+     "Applicable aux actes conclus à compter du 1er juillet 2026."
+    ]
+   }
+  },
+  {
+   "id": "rachid-promesse",
+   "tax": "بيع العقار · المحرر الرسمي",
+   "title": "رشيد وقّع وعداً بالبيع بخط اليد",
+   "text": [
+    "في شتنبر 2026، اتفق رشيد مع حسن على شراء أرضه، فكتبا وعداً بالبيع في ورقة عادية وصادقا على الإمضاءين، وأدى رشيد تسبيقاً.",
+    "بعد أسابيع تراجع حسن. ولما استشار رشيد موثقاً، علم أن الوعد باطل لأنه لم يُحرَّر في محرر رسمي."
+   ],
+   "calc": [],
+   "lessons": [
+    "منذ القانون 41.25 (الجريدة الرسمية 7526، يوليوز 2026)، كل تصرف ينقل ملكية عقار أو حقاً عينياً، ومنه الوعد بالبيع والوكالة الخاصة به، يُحرَّر في محرر رسمي تحت طائلة البطلان.",
+    "حُذف خيار العقد الثابت التاريخ الذي يحرره المحامي في هذه التصرفات.",
+    "قبل أداء أي تسبيق، اذهب إلى موثق أو عدل."
+   ],
+   "refs": [],
+   "law": "loi-41-25",
+   "status": "inforce",
+   "fr": {
+    "tax": "Vente immobilière · Acte authentique",
+    "title": "Rachid a signé une promesse de vente sous seing privé",
+    "text": [
+     "En septembre 2026, Rachid s'est mis d'accord avec Hassan pour acheter son terrain. Ils ont rédigé une promesse de vente sur papier libre, légalisé les signatures, et Rachid a versé une avance.",
+     "Quelques semaines plus tard, Hassan s'est rétracté. Consultant un notaire, Rachid a appris que la promesse était nulle faute d'acte authentique."
+    ],
+    "calc": [],
+    "lessons": [
+     "Depuis la loi 41-25 (BO 7526, juillet 2026), tout acte transférant la propriété d'un immeuble ou un droit réel, y compris la promesse de vente et la procuration y afférente, doit être établi par acte authentique sous peine de nullité.",
+     "L'acte à date certaine rédigé par un avocat n'est plus admis pour ces opérations.",
+     "Avant de verser une avance, passez chez un notaire ou un adoul."
+    ]
+   }
+  },
+  {
+   "id": "salma-ae",
+   "tax": "المقاول الذاتي",
+   "title": "سلمى المصممة وزبونها الوحيد",
+   "text": [
+    "سلمى مصممة جرافيك بنظام المقاول الذاتي. في 2026 عملت مع شركة واحدة تقريباً، وفوترت لها 150 000 درهم.",
+    "عند الأداء، وجدت أن الشركة حجزت جزءاً كبيراً من مستحقاتها."
+   ],
+   "calc": [
+    [
+     "رقم الأعمال مع الزبون نفسه",
+     "150 000 درهم"
+    ],
+    [
+     "الجزء الذي يفوق 80 000 درهم",
+     "70 000 درهم"
+    ],
+    [
+     "حجز في المنبع 30% على هذا الجزء (إبرائي)",
+     "21 000 درهم",
+     1
+    ],
+    [
+     "ضريبة المقاول الذاتي 1% على الباقي (80 000)",
+     "800 درهم"
+    ],
+    [
+     "لو توزّع الرقم نفسه على عدة زبناء: 1% فقط",
+     "1 500 درهم"
+    ]
+   ],
+   "lessons": [
+    "ما يتجاوز 80 000 درهم في السنة من نفس الزبون في الخدمات يخضع لحجز 30% في المنبع.",
+    "سقف رقم الأعمال للخدمات 200 000 درهم، و500 000 درهم للتجارة والصناعة والحرف.",
+    "مشروع قانون المالية 2027 يقترح رفع العتبة إلى 100 000 درهم وخفض الحجز إلى 20%. ما يزال مشروعاً لم يُصادق عليه."
+   ],
+   "refs": [
+    "42 bis",
+    "42 ter",
+    "45 bis",
+    "73"
+   ],
+   "law": "plf27-ir",
+   "status": "inforce",
+   "fr": {
+    "tax": "Auto-entrepreneur",
+    "title": "Salma, designer, et son client unique",
+    "text": [
+     "Salma est graphiste sous le statut d'auto-entrepreneur. En 2026, elle a travaillé presque exclusivement avec une société et lui a facturé 150 000 DH.",
+     "Au paiement, elle constate que la société a retenu une part importante de ses honoraires."
+    ],
+    "calc": [
+     [
+      "Chiffre d'affaires avec le même client",
+      "150 000 DH"
+     ],
+     [
+      "Partie dépassant 80 000 DH",
+      "70 000 DH"
+     ],
+     [
+      "Retenue à la source de 30 % sur cette partie (libératoire)",
+      "21 000 DH",
+      1
+     ],
+     [
+      "Impôt auto-entrepreneur 1 % sur le reste (80 000)",
+      "800 DH"
+     ],
+     [
+      "Si le même chiffre était réparti entre plusieurs clients : 1 % seulement",
+      "1 500 DH"
+     ]
+    ],
+    "lessons": [
+     "Au-delà de 80 000 DH par an facturés à un même client pour des prestations de services, une retenue à la source de 30 % s'applique.",
+     "Plafond de chiffre d'affaires : 200 000 DH pour les services, 500 000 DH pour le commerce, l'industrie et l'artisanat.",
+     "Le PLF 2027 propose de porter le seuil à 100 000 DH et de ramener la retenue à 20 %. Ce n'est encore qu'un projet."
+    ]
+   }
+  },
+  {
+   "id": "atlas-cm",
+   "tax": "الضريبة على الشركات",
+   "title": "شركة خاسرة ومع ذلك تؤدي الضريبة",
+   "text": [
+    "شركة «أطلس للتوزيع» في سنتها الرابعة. رقم معاملاتها 3 000 000 درهم، لكنها ختمت السنة بعجز قدره 150 000 درهم.",
+    "ظن المسير أن لا ضريبة عليه هذه السنة، فنبهه المحاسب إلى الحد الأدنى للضريبة."
+   ],
+   "calc": [
+    [
+     "الضريبة على الشركات (عجز)",
+     "0 درهم"
+    ],
+    [
+     "الحد الأدنى: 0,25% × 3 000 000",
+     "7 500 درهم"
+    ],
+    [
+     "المستحق",
+     "7 500 درهم",
+     1
+    ]
+   ],
+   "lessons": [
+    "يُؤدى الأعلى بين الضريبة على الشركات والحد الأدنى، حتى في حالة العجز، مع حد أدنى قدره 3 000 درهم.",
+    "تُعفى الشركة من الحد الأدنى خلال 36 شهراً الأولى من بداية الاستغلال.",
+    "سعر مخفض 0,15% لبعض المواد (المحروقات، الزيت، السكر، الدقيق، الماء، الكهرباء، الأدوية…)."
+   ],
+   "refs": [
+    "144",
+    "19"
+   ],
+   "status": "inforce",
+   "fr": {
+    "tax": "Impôt sur les sociétés",
+    "title": "Une société en perte qui paie quand même l'impôt",
+    "text": [
+     "La société « Atlas Distribution » est dans sa quatrième année. Son chiffre d'affaires est de 3 000 000 DH, mais elle a clôturé l'exercice avec un déficit de 150 000 DH.",
+     "Le gérant pensait ne rien devoir cette année ; le comptable lui a rappelé la cotisation minimale."
+    ],
+    "calc": [
+     [
+      "IS (déficit)",
+      "0 DH"
+     ],
+     [
+      "Cotisation minimale : 0,25 % × 3 000 000",
+      "7 500 DH"
+     ],
+     [
+      "Montant dû",
+      "7 500 DH",
+      1
+     ]
+    ],
+    "lessons": [
+     "On paie le plus élevé entre l'IS et la cotisation minimale, même en cas de déficit, avec un minimum de 3 000 DH.",
+     "La société est exonérée de cotisation minimale pendant ses 36 premiers mois d'exploitation.",
+     "Taux réduit de 0,15 % pour certains produits (carburants, huile, sucre, farine, eau, électricité, médicaments…)."
+    ]
+   }
+  },
+  {
+   "id": "nour-dividendes",
+   "tax": "الضريبة على الشركات · الأرباح الموزعة",
+   "title": "شركة «نور» ربحت مليونين: كم يبقى للشركاء؟",
+   "text": [
+    "حققت شركة «نور» ربحاً صافياً جبائياً قدره 2 000 000 درهم برسم 2026، وقرر الشريكان توزيع 500 000 درهم.",
+    "سألا المحاسب: هل نوزع الآن في دجنبر 2026 أم ننتظر يناير 2027؟"
+   ],
+   "calc": [
+    [
+     "الضريبة على الشركات 20%",
+     "400 000 درهم"
+    ],
+    [
+     "المساهمة الاجتماعية للتضامن 1,5%",
+     "30 000 درهم"
+    ],
+    [
+     "حجز على التوزيع في 2026: 11,25% × 500 000",
+     "56 250 درهم"
+    ],
+    [
+     "حجز على التوزيع ابتداء من 2027: 10%",
+     "50 000 درهم"
+    ],
+    [
+     "الفرق لصالح الشركاء",
+     "6 250 درهم",
+     1
+    ]
+   ],
+   "lessons": [
+    "المساهمة الاجتماعية للتضامن تطبق على الأرباح من مليون درهم فأكثر، من 2022 إلى 2028.",
+    "سعر الحجز على الأرباح الموزعة 11,25% في 2026 و10% ابتداء من فاتح يناير 2027، وهو إبرائي للأشخاص الذاتيين المقيمين.",
+    "تاريخ التوزيع يحدد السعر المطبق."
+   ],
+   "refs": [
+    "19",
+    "13",
+    "73",
+    "267",
+    "269",
+    "247"
+   ],
+   "status": "inforce",
+   "fr": {
+    "tax": "IS · Dividendes",
+    "title": "La société « Nour » a gagné deux millions : combien reste-t-il aux associés ?",
+    "text": [
+     "La société « Nour » a réalisé un bénéfice fiscal net de 2 000 000 DH au titre de 2026, et les deux associés ont décidé de distribuer 500 000 DH.",
+     "Ils demandent au comptable : distribuer maintenant en décembre 2026 ou attendre janvier 2027 ?"
+    ],
+    "calc": [
+     [
+      "IS 20 %",
+      "400 000 DH"
+     ],
+     [
+      "Contribution sociale de solidarité 1,5 %",
+      "30 000 DH"
+     ],
+     [
+      "Retenue sur distribution en 2026 : 11,25 % × 500 000",
+      "56 250 DH"
+     ],
+     [
+      "Retenue sur distribution à partir de 2027 : 10 %",
+      "50 000 DH"
+     ],
+     [
+      "Écart en faveur des associés",
+      "6 250 DH",
+      1
+     ]
+    ],
+    "lessons": [
+     "La contribution sociale de solidarité s'applique aux bénéfices d'un million de DH et plus, de 2022 à 2028.",
+     "Retenue sur dividendes : 11,25 % en 2026 et 10 % à compter du 1er janvier 2027, libératoire pour les personnes physiques résidentes.",
+     "La date de distribution détermine le taux applicable."
+    ]
+   }
+  },
+  {
+   "id": "retard-is",
+   "tax": "الجزاءات",
+   "title": "عشرون يوماً من التأخير كلفت 7 500 درهم",
+   "text": [
+    "شركة صغيرة ختمت سنتها في 31 دجنبر 2025، والباقي المستحق من الضريبة على الشركات 50 000 درهم. آخر أجل للإقرار والأداء: 31 مارس 2026.",
+    "انشغل المسير فأودع الإقرار وأدى الضريبة يوم 20 أبريل، أي بتأخير 20 يوماً."
+   ],
+   "calc": [
+    [
+     "زيادة التأخر في الإقرار (أقل من 30 يوماً) 5%",
+     "2 500 درهم"
+    ],
+    [
+     "ذعيرة التأخر في الأداء (مخفضة إلى 5% داخل 30 يوماً)",
+     "2 500 درهم"
+    ],
+    [
+     "زيادة الشهر الأول 5%",
+     "2 500 درهم"
+    ],
+    [
+     "مجموع الجزاءات",
+     "7 500 درهم",
+     1
+    ],
+    [
+     "لو كان التأخير 40 يوماً: 15% + 10% + 5% + 0,5%",
+     "15 250 درهم"
+    ]
+   ],
+   "lessons": [
+    "آجال الإقرار بالحصيلة: 3 أشهر بعد ختم السنة المحاسبية.",
+    "بعد 30 يوماً ترتفع زيادة الإقرار إلى 15% والذعيرة إلى 10%، وتضاف 0,5% عن كل شهر إضافي.",
+    "في الضريبة على القيمة المضافة والضرائب المحجوزة في المنبع، ترتفع الذعيرة إلى 20%."
+   ],
+   "refs": [
+    "20",
+    "184",
+    "208"
+   ],
+   "status": "inforce",
+   "fr": {
+    "tax": "Sanctions",
+    "title": "Vingt jours de retard ont coûté 7 500 DH",
+    "text": [
+     "Une petite société a clôturé son exercice au 31 décembre 2025 ; le reliquat d'IS dû est de 50 000 DH. Date limite de déclaration et de paiement : 31 mars 2026.",
+     "Débordé, le gérant a déposé et payé le 20 avril, soit 20 jours de retard."
+    ],
+    "calc": [
+     [
+      "Majoration pour dépôt tardif (moins de 30 jours) 5 %",
+      "2 500 DH"
+     ],
+     [
+      "Pénalité de paiement tardif (réduite à 5 % dans les 30 jours)",
+      "2 500 DH"
+     ],
+     [
+      "Majoration du premier mois 5 %",
+      "2 500 DH"
+     ],
+     [
+      "Total des sanctions",
+      "7 500 DH",
+      1
+     ],
+     [
+      "Avec 40 jours de retard : 15 % + 10 % + 5 % + 0,5 %",
+      "15 250 DH"
+     ]
+    ],
+    "lessons": [
+     "Délai de déclaration du résultat fiscal : 3 mois après la clôture de l'exercice.",
+     "Après 30 jours, la majoration de dépôt passe à 15 % et la pénalité à 10 %, plus 0,5 % par mois supplémentaire.",
+     "En matière de TVA et de retenues à la source, la pénalité est portée à 20 %."
+    ]
+   }
+  },
+  {
+   "id": "leila-revision",
+   "tax": "الكراء",
+   "title": "المكري طلب زيادة 15% من ليلى",
+   "text": [
+    "تكتري ليلى شقة بـ 3 500 درهم في الشهر منذ شتنبر 2023. في نونبر 2026 أخبرها المكري أن الكراء سيصبح 4 025 درهماً، أي زيادة 15%.",
+    "رفضت ليلى بلطف، وأرته ما ينص عليه القانون."
+   ],
+   "calc": [
+    [
+     "الكراء الحالي",
+     "3 500 درهم"
+    ],
+    [
+     "الزيادة القصوى للسكنى 8%",
+     "280 درهم"
+    ],
+    [
+     "الكراء الأقصى المسموح به",
+     "3 780 درهم",
+     1
+    ],
+    [
+     "ما طلبه المكري",
+     "4 025 درهم"
+    ]
+   ],
+   "lessons": [
+    "لا مراجعة قبل مرور 3 سنوات على العقد أو على آخر مراجعة.",
+    "الحد الأقصى للزيادة 8% للمحلات المعدة للسكنى و10% للمحلات المهنية والتجارية.",
+    "إذا لم يتجاوز الكراء 400 درهم، تحدد المحكمة الزيادة بسلطتها التقديرية."
+   ],
+   "refs": [],
+   "law": "loi-07-03",
+   "status": "inforce",
+   "fr": {
+    "tax": "Baux",
+    "title": "Le bailleur a demandé à Leïla une hausse de 15 %",
+    "text": [
+     "Leïla loue un appartement 3 500 DH par mois depuis septembre 2023. En novembre 2026, le bailleur lui annonce un loyer de 4 025 DH, soit +15 %.",
+     "Leïla refuse poliment et lui montre ce que prévoit la loi."
+    ],
+    "calc": [
+     [
+      "Loyer actuel",
+      "3 500 DH"
+     ],
+     [
+      "Hausse maximale pour l'habitation 8 %",
+      "280 DH"
+     ],
+     [
+      "Loyer maximum autorisé",
+      "3 780 DH",
+      1
+     ],
+     [
+      "Montant demandé par le bailleur",
+      "4 025 DH"
+     ]
+    ],
+    "lessons": [
+     "Pas de révision avant 3 ans depuis le bail ou la dernière révision.",
+     "Hausse maximale : 8 % pour l'habitation, 10 % pour les locaux professionnels et commerciaux.",
+     "Si le loyer ne dépasse pas 400 DH, le tribunal fixe la hausse librement."
+    ]
+   }
+  },
+  {
+   "id": "najma-ras5",
+   "tax": "الضريبة على الشركات · الكراء",
+   "title": "مستودع «نجمة» وحجز 5% الجديد",
+   "text": [
+    "شركة «نجمة» تكري مستودعاً لموزع كبير يبلغ رقم معاملاته 650 مليون درهم، بـ 900 000 درهم في السنة دون الضريبة على القيمة المضافة.",
+    "في دجنبر 2026 وصلها التحويل ناقصاً، فاستفسرت المكتري: إنه الحجز الجديد على عائدات الكراء."
+   ],
+   "calc": [
+    [
+     "الكراء السنوي دون الضريبة على القيمة المضافة",
+     "900 000 درهم"
+    ],
+    [
+     "الحجز في المنبع 5%",
+     "45 000 درهم",
+     1
+    ],
+    [
+     "أي في الشهر",
+     "3 750 درهم"
+    ]
+   ],
+   "lessons": [
+    "منذ فاتح يوليوز 2026، يحجز المكترون الكبار 5% من الكراء المدفوع للشركات، وتنزل العتبة إلى 350 مليون درهم في 2027 ثم 200 مليون في 2028.",
+    "المبلغ المحجوز ليس خسارة: يُخصم من الضريبة على الشركات للمكري ويُسترجع الفائض.",
+    "احتفظ بشهادات الحجز التي يسلمها المكتري."
+   ],
+   "refs": [
+    "4",
+    "15 ter",
+    "19",
+    "157"
+   ],
+   "law": "ras-5",
+   "status": "inforce",
+   "fr": {
+    "tax": "IS · Loyers",
+    "title": "L'entrepôt de « Najma » et la nouvelle retenue de 5 %",
+    "text": [
+     "La société « Najma » loue un entrepôt à un grand distributeur dont le chiffre d'affaires est de 650 millions de DH, pour 900 000 DH HT par an.",
+     "En décembre 2026, le virement arrive incomplet ; elle interroge le locataire : c'est la nouvelle retenue sur les loyers."
+    ],
+    "calc": [
+     [
+      "Loyer annuel hors TVA",
+      "900 000 DH"
+     ],
+     [
+      "Retenue à la source 5 %",
+      "45 000 DH",
+      1
+     ],
+     [
+      "Soit par mois",
+      "3 750 DH"
+     ]
+    ],
+    "lessons": [
+     "Depuis le 1er juillet 2026, les grands locataires retiennent 5 % des loyers versés aux sociétés ; le seuil passe à 350 millions de DH en 2027, puis 200 millions en 2028.",
+     "La retenue n'est pas une perte : elle s'impute sur l'IS du bailleur et l'excédent est restitué.",
+     "Conservez les attestations de retenue remises par le locataire."
+    ]
+   }
+  }
+ ],
+ "deadlines": {
+  "holidays": [
+   "01-01",
+   "01-11",
+   "01-14",
+   "05-01",
+   "07-30",
+   "08-14",
+   "08-20",
+   "08-21",
+   "10-31",
+   "11-06",
+   "11-18"
+  ],
+  "note": "التواريخ محسوبة لسنة محاسبية تطابق السنة المدنية (1 يناير إلى 31 دجنبر) وللإقرار الإلكتروني. إذا صادف آخر يوم عطلة نهاية الأسبوع أو عيداً وطنياً، يؤجل الأجل إلى أول يوم عمل موالٍ (المادة 163). الأعياد الدينية غير محتسبة لأن تاريخها يتحدد برؤية الهلال.",
+  "rules": [
+   {
+    "id": "tva-m",
+    "tax": "tva",
+    "freq": "M",
+    "title": "إقرار وأداء الضريبة على القيمة المضافة (النظام الشهري)",
+    "detail": "عن رقم أعمال شهر {pm}",
+    "who": "الخاضعون للإقرار الشهري: رقم أعمال السنة السابقة 1 000 000 درهم أو أكثر، وغير المقيمين",
+    "refs": [
+     "108",
+     "110",
+     "176"
+    ],
+    "fr": {
+     "title": "Déclaration et paiement de la TVA (régime mensuel)",
+     "detail": "Chiffre d'affaires du mois de {pm}",
+     "who": "Assujettis au régime mensuel : CA de l'année précédente ≥ 1 000 000 DH, et non-résidents"
+    }
+   },
+   {
+    "id": "tva-q",
+    "tax": "tva",
+    "freq": "Q",
+    "months": [
+     1,
+     4,
+     7,
+     10
+    ],
+    "title": "إقرار وأداء الضريبة على القيمة المضافة (النظام الربع سنوي)",
+    "detail": "عن رقم أعمال {pq}",
+    "who": "الخاضعون للإقرار الربع سنوي: رقم أعمال السنة السابقة أقل من 1 000 000 درهم",
+    "refs": [
+     "108",
+     "111",
+     "176"
+    ],
+    "fr": {
+     "title": "Déclaration et paiement de la TVA (régime trimestriel)",
+     "detail": "Chiffre d'affaires du {pq}",
+     "who": "Assujettis au régime trimestriel : CA de l'année précédente < 1 000 000 DH"
+    }
+   },
+   {
+    "id": "ir-sal",
+    "tax": "ir",
+    "freq": "M",
+    "title": "أداء الضريبة المحجوزة على الأجور",
+    "detail": "الضريبة المقتطعة من أجور شهر {pm}",
+    "who": "المشغلون والمدينون بالإيرادات",
+    "refs": [
+     "156",
+     "174"
+    ],
+    "fr": {
+     "title": "Versement de l'IR retenu sur salaires",
+     "detail": "IR prélevé sur les salaires de {pm}",
+     "who": "Employeurs et débirentiers"
+    }
+   },
+   {
+    "id": "ras",
+    "tax": "ras",
+    "freq": "M",
+    "title": "أداء الضرائب المحجوزة في المنبع",
+    "detail": "الحجز على الأرباح الموزعة والفوائد والأتعاب والكراء المدفوعة خلال شهر {pm}",
+    "who": "كل من قام بحجز في المنبع",
+    "refs": [
+     "171",
+     "174"
+    ],
+    "fr": {
+     "title": "Versement des retenues à la source",
+     "detail": "Retenues sur dividendes, intérêts, honoraires et loyers payés en {pm}",
+     "who": "Toute personne ayant opéré une retenue"
+    }
+   },
+   {
+    "id": "ae-m",
+    "tax": "ae",
+    "freq": "M",
+    "title": "إقرار وأداء المقاول الذاتي (الاختيار الشهري)",
+    "detail": "عن رقم الأعمال المحصل خلال شهر {pm}",
+    "who": "المقاولون الذاتيون الذين اختاروا الأداء الشهري",
+    "refs": [
+     "82 bis",
+     "173"
+    ],
+    "fr": {
+     "title": "Déclaration et paiement de l'auto-entrepreneur (option mensuelle)",
+     "detail": "Chiffre d'affaires encaissé en {pm}",
+     "who": "Auto-entrepreneurs ayant opté pour le paiement mensuel"
+    }
+   },
+   {
+    "id": "ae-q",
+    "tax": "ae",
+    "freq": "Q",
+    "months": [
+     1,
+     4,
+     7,
+     10
+    ],
+    "title": "إقرار وأداء المقاول الذاتي (الاختيار الربع سنوي)",
+    "detail": "عن رقم الأعمال المحصل خلال {pq}",
+    "who": "المقاولون الذاتيون الذين اختاروا الأداء الربع سنوي",
+    "refs": [
+     "82 bis",
+     "173"
+    ],
+    "fr": {
+     "title": "Déclaration et paiement de l'auto-entrepreneur (option trimestrielle)",
+     "detail": "Chiffre d'affaires encaissé au {pq}",
+     "who": "Auto-entrepreneurs ayant opté pour le paiement trimestriel"
+    }
+   },
+   {
+    "id": "is-ac",
+    "tax": "is",
+    "freq": "Q",
+    "months": [
+     3,
+     6,
+     9,
+     12
+    ],
+    "acompte": true,
+    "title": "الدفعة المقدمة {n} من الضريبة على الشركات",
+    "detail": "25% من ضريبة آخر سنة مختتمة، برسم السنة المحاسبية {y}",
+    "who": "الشركات الخاضعة للضريبة على الشركات",
+    "refs": [
+     "170"
+    ],
+    "fr": {
+     "title": "{n} acompte d'impôt sur les sociétés",
+     "detail": "25 % de l'IS du dernier exercice clos, au titre de l'exercice {y}",
+     "who": "Sociétés soumises à l'IS"
+    }
+   },
+   {
+    "id": "cpu-q",
+    "tax": "ir",
+    "freq": "Q",
+    "months": [
+     3,
+     6,
+     9,
+     12
+    ],
+    "acompte": true,
+    "title": "الدفعة {n} لنظام المساهمة المهنية الموحدة",
+    "detail": "لمن اختار الأداء الربع سنوي: 25% من الضريبة المستحقة عن رقم أعمال {py}",
+    "who": "الخاضعون لنظام المساهمة المهنية الموحدة",
+    "refs": [
+     "173"
+    ],
+    "fr": {
+     "title": "{n} versement de la contribution professionnelle unique",
+     "detail": "Option trimestrielle : 25 % de l'impôt dû sur le chiffre d'affaires {py}",
+     "who": "Contribuables au régime de la CPU"
+    }
+   },
+   {
+    "id": "tsav",
+    "tax": "other",
+    "freq": "Y",
+    "month": 1,
+    "title": "أداء الضريبة الخصوصية السنوية على المركبات",
+    "detail": "برسم سنة {y} (تؤدى خلال يناير)",
+    "who": "مالكو المركبات الخاضعة",
+    "refs": [
+     "261"
+    ],
+    "fr": {
+     "title": "Paiement de la taxe spéciale annuelle sur les véhicules",
+     "detail": "Au titre de {y} (payable en janvier)",
+     "who": "Propriétaires de véhicules imposables"
+    }
+   },
+   {
+    "id": "cm-ir",
+    "tax": "ir",
+    "freq": "Y",
+    "month": 1,
+    "title": "أداء الحد الأدنى للضريبة على الدخل",
+    "detail": "برسم دخول {py} المهنية والفلاحية",
+    "who": "الخاضعون للضريبة على الدخل في نظام النتيجة الحقيقية أو المبسطة",
+    "refs": [
+     "144",
+     "173"
+    ],
+    "fr": {
+     "title": "Paiement de la cotisation minimale IR",
+     "detail": "Revenus professionnels et agricoles de {py}",
+     "who": "Contribuables IR au résultat net réel ou simplifié"
+    }
+   },
+   {
+    "id": "decl-sal",
+    "tax": "ir",
+    "freq": "Y",
+    "month": 2,
+    "title": "الإقرار السنوي بالأجور والمرتبات",
+    "detail": "الأجور المدفوعة خلال {py}",
+    "who": "المشغلون",
+    "refs": [
+     "79"
+    ],
+    "fr": {
+     "title": "Déclaration annuelle des traitements et salaires",
+     "detail": "Salaires versés en {py}",
+     "who": "Employeurs"
+    }
+   },
+   {
+    "id": "ir-glob",
+    "tax": "ir",
+    "freq": "Y",
+    "month": 2,
+    "title": "الإقرار بمجموع الدخل (الدخول غير المهنية)",
+    "detail": "دخول {py}، ومنها الدخول العقارية",
+    "who": "أصحاب الدخول العقارية والأجور غير المعفيين من الإقرار",
+    "refs": [
+     "82",
+     "86"
+    ],
+    "fr": {
+     "title": "Déclaration du revenu global (revenus non professionnels)",
+     "detail": "Revenus de {py}, dont les revenus fonciers",
+     "who": "Titulaires de revenus fonciers et salariés non dispensés"
+    }
+   },
+   {
+    "id": "decl-loyer",
+    "tax": "ir",
+    "freq": "Y",
+    "month": 2,
+    "title": "الإقرار بالأكرية المدفوعة لأشخاص ذاتيين",
+    "detail": "الأكرية المدفوعة والضريبة المحجوزة عنها خلال {py}",
+    "who": "الشركات وأصحاب النتيجة الحقيقية أو المبسطة الذين يكترون من أشخاص ذاتيين",
+    "refs": [
+     "154 bis",
+     "160 bis"
+    ],
+    "fr": {
+     "title": "Déclaration des loyers versés à des personnes physiques",
+     "detail": "Loyers versés et retenues opérées en {py}",
+     "who": "Sociétés et contribuables au RNR ou RNS locataires de personnes physiques"
+    }
+   },
+   {
+    "id": "prorata",
+    "tax": "tva",
+    "freq": "Y",
+    "month": 2,
+    "title": "الإقرار بمعامل الخصم (prorata)",
+    "detail": "برسم السنة {py}",
+    "who": "من ينجز عمليات خاضعة وأخرى معفاة أو خارج النطاق",
+    "refs": [
+     "113"
+    ],
+    "fr": {
+     "title": "Déclaration du prorata de déduction de TVA",
+     "detail": "Au titre de {py}",
+     "who": "Assujettis réalisant à la fois des opérations taxables et exonérées ou hors champ"
+    }
+   },
+   {
+    "id": "is-decl",
+    "tax": "is",
+    "freq": "Y",
+    "month": 3,
+    "title": "الإقرار بالحصيلة الجبائية وأداء باقي الضريبة على الشركات",
+    "detail": "برسم السنة المحاسبية {py}، مع القوائم التركيبية والإقرار بالمكافآت المخولة للغير",
+    "who": "الشركات (خاضعة أو معفاة)",
+    "refs": [
+     "20",
+     "151",
+     "170"
+    ],
+    "fr": {
+     "title": "Déclaration du résultat fiscal et paiement du reliquat d'IS",
+     "detail": "Exercice {py}, avec les états de synthèse et la déclaration des rémunérations allouées à des tiers",
+     "who": "Sociétés (imposables ou exonérées)"
+    }
+   },
+   {
+    "id": "css-is",
+    "tax": "is",
+    "freq": "Y",
+    "month": 3,
+    "title": "إقرار وأداء المساهمة الاجتماعية للتضامن على الأرباح",
+    "detail": "برسم السنة المحاسبية {py}، للربح الصافي من 1 000 000 درهم فأكثر",
+    "who": "الشركات المعنية",
+    "refs": [
+     "267",
+     "270",
+     "271"
+    ],
+    "fr": {
+     "title": "Déclaration et paiement de la contribution sociale de solidarité",
+     "detail": "Exercice {py}, pour un bénéfice net de 1 000 000 DH et plus",
+     "who": "Sociétés concernées"
+    }
+   },
+   {
+    "id": "cpu-y",
+    "tax": "ir",
+    "freq": "Y",
+    "month": 3,
+    "title": "الإقرار السنوي لنظام المساهمة المهنية الموحدة",
+    "detail": "رقم أعمال {py}، مع الأداء لمن اختار الأداء السنوي",
+    "who": "الخاضعون لنظام المساهمة المهنية الموحدة",
+    "refs": [
+     "82 quater",
+     "173"
+    ],
+    "fr": {
+     "title": "Déclaration annuelle de la contribution professionnelle unique",
+     "detail": "Chiffre d'affaires {py}, avec paiement pour l'option annuelle",
+     "who": "Contribuables au régime de la CPU"
+    }
+   },
+   {
+    "id": "decl-div",
+    "tax": "ras",
+    "freq": "Y",
+    "month": 3,
+    "title": "الإقرار بالأرباح الموزعة وحاصلات التوظيفات",
+    "detail": "المبالغ الموزعة أو المدفوعة خلال {py}",
+    "who": "الشركات الموزعة والجهات الدافعة للفوائد",
+    "refs": [
+     "152",
+     "153"
+    ],
+    "fr": {
+     "title": "Déclaration des dividendes et des produits de placement",
+     "detail": "Montants distribués ou versés en {py}",
+     "who": "Sociétés distributrices et payeurs d'intérêts"
+    }
+   },
+   {
+    "id": "ir-pro",
+    "tax": "ir",
+    "freq": "Y",
+    "month": 4,
+    "title": "الإقرار بمجموع الدخل (الدخول المهنية)",
+    "detail": "دخول {py}، مع الإقرار بالمكافآت المخولة للغير",
+    "who": "أصحاب الدخول المهنية بنظام النتيجة الصافية الحقيقية أو المبسطة",
+    "refs": [
+     "82",
+     "151"
+    ],
+    "fr": {
+     "title": "Déclaration du revenu global (revenus professionnels)",
+     "detail": "Revenus de {py}, avec la déclaration des rémunérations allouées à des tiers",
+     "who": "Titulaires de revenus professionnels au RNR ou RNS"
+    }
+   },
+   {
+    "id": "css-pp",
+    "tax": "ir",
+    "freq": "Y",
+    "month": 5,
+    "title": "إقرار المساهمة الاجتماعية للتضامن (الأشخاص الذاتيون)",
+    "detail": "برسم دخول {py}",
+    "who": "الأشخاص الذاتيون المعنيون بالمساهمة",
+    "refs": [
+     "267",
+     "270"
+    ],
+    "fr": {
+     "title": "Déclaration de la contribution sociale de solidarité (personnes physiques)",
+     "detail": "Revenus de {py}",
+     "who": "Personnes physiques concernées"
+    }
+   }
+  ],
+  "events": [
+   {
+    "title": "الإقرار بالربح العقاري وأداء الضريبة",
+    "delay": "30 يوماً من تاريخ البيع",
+    "refs": [
+     "83",
+     "173"
+    ],
+    "fr": {
+     "title": "Déclaration du profit immobilier et paiement de l'impôt",
+     "delay": "30 jours à compter de la vente"
+    }
+   },
+   {
+    "title": "تسجيل العقود والاتفاقات وأداء الواجبات",
+    "delay": "30 يوماً من تاريخ العقد",
+    "refs": [
+     "127",
+     "128"
+    ],
+    "fr": {
+     "title": "Enregistrement des actes et paiement des droits",
+     "delay": "30 jours à compter de l'acte"
+    }
+   },
+   {
+    "title": "التصريح بالتأسيس",
+    "delay": "30 يوماً من التأسيس أو بداية النشاط",
+    "refs": [
+     "148"
+    ],
+    "fr": {
+     "title": "Déclaration d'existence",
+     "delay": "30 jours à compter de la constitution ou du début d'activité"
+    }
+   },
+   {
+    "title": "الإقرار بتحويل المقر الاجتماعي أو الموطن الضريبي",
+    "delay": "عند التحويل",
+    "refs": [
+     "149"
+    ],
+    "fr": {
+     "title": "Déclaration de transfert du siège ou du domicile fiscal",
+     "delay": "Lors du transfert"
+    }
+   },
+   {
+    "title": "الإقرار بالتوقف أو الاندماج أو الانقسام أو تغيير الشكل",
+    "delay": "45 يوماً من تاريخ الحدث",
+    "refs": [
+     "150"
+    ],
+    "fr": {
+     "title": "Déclaration de cessation, fusion, scission ou transformation",
+     "delay": "45 jours à compter de l'événement"
+    }
+   }
+  ],
+  "noteFr": "Dates calculées pour un exercice correspondant à l'année civile et pour le dépôt électronique. Si le dernier jour tombe un week-end ou un jour férié national, le délai est reporté au premier jour ouvrable suivant (art. 163). Les fêtes religieuses ne sont pas prises en compte, leur date dépendant de l'observation du croissant lunaire."
+ },
+ "taxLabelsFr": {
+  "is": "Impôt sur les sociétés",
+  "cm": "Cotisation minimale",
+  "ir": "Impôt sur le revenu",
+  "tpi": "Profit immobilier",
+  "rf": "Revenus fonciers",
+  "div": "Dividendes",
+  "de": "Droits d'enregistrement",
+  "ras5": "Retenue de 5 % sur loyers",
+  "css": "Contribution de solidarité"
  }
 }
